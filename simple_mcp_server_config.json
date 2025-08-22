@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "simple-server": {
+      "command": "/Users/nandana/Documents/Projects/MCP-Server/mcp-env/bin/python",
+      "args": ["simple_mcp_server.py"]
+    }
+  }
+}
+  
